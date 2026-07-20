@@ -33,10 +33,3 @@ This project aims to generate a high-precision, continuous sine wave on microcon
 3.  Flash the code onto your development board.
 4.  If you want to change the timer frequency or DMA buffer size, you can update the relevant configuration variables within `main.c`.
 
-## Developer
-
-**Selo Can Demir**  
-Focused on low-level system programming, embedded systems, and hardware architectures.
-
----
-*This project is open-source and designed for educational and personal development purposes.*
